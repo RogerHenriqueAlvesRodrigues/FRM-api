@@ -1,8 +1,8 @@
 spring:
   datasource:
-    username: celk
+    username: teste
     url: jdbc:postgresql://localhost:5432/db_teste
-    password: celk
+    password: teste
   jpa:
     database-plataform: org.hibernate.dialect.PostgreSQLDialect
     properties:
